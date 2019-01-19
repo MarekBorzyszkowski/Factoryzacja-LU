@@ -1,0 +1,1 @@
+faktoryzacjaLU czas: 292.831sec  	norma residuum: 6.31747e-13
